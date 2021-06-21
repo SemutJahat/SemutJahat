@@ -1,23 +1,23 @@
 ### <p align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hey there, I'm Andre aka SemutJahat</p>
 
 ```javascript
-const JORS = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "php"],
-    askMeAbout: ["web dev", "tech", "photography"],
+const SemutJahat = {
+    nickName: "Jors" | "John",
+    code: ["Javascript", "PHP"],
+    askMeAbout: "Web Dev",
     technologies: {
         backEnd: {
-            js: ["node", "express"],
+            js: ["Node", "Express"],
         },
         frontEnd: {
-            js: ["Vue", "Nuxt", "React"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: "React",
+            css: "Bootstrap"
         },
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "php"]
+        databases: ["MongoDB", "MySql"],
+        misc: ["Firebase", "Socket.IO", "PHP"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Python",
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "CodeIgniter",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
